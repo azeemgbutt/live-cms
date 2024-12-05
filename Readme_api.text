@@ -1,0 +1,27 @@
+API Documentation
+Endpoint: Get Page by ID
+URL: /api/pages/:pageId
+
+Method: GET
+
+Description: Retrieves details of a specific page by its ID.
+
+`GET /api/pages/:pageId`
+@API "Getpagebyid"
+@Url "http://localhost:8000/api/pages/"
+@id  "66c74ee62fdee521cd1412a9"
+
+nodeCK@1234!
+
+ateebejaz
+0iFhRWZzhRYzRO3f
+
+
+0iFhRWZzhRYzRO3f
+
+
+mongodb+srv://ateebejaz:0iFhRWZzhRYzRO3f@ckdblive.izktr.mongodb.net/
+Blog 
+https://www.youtube.com/watch?v=IGF3I85Ks2k
+
+
